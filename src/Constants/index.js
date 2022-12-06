@@ -3,19 +3,19 @@ import { people01, people02, people03, facebook, instagram, linkedin, twitter, a
 export const navLinks = [
   {
     id: "home",
-    title: "Home",
+    title: "Principal",
   },
   {
     id: "features",
-    title: "Features",
+    title: "Recursos",
   },
   {
     id: "product",
-    title: "Product",
+    title: "Produto",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "Clientes",
   },
 ];
 
@@ -23,23 +23,23 @@ export const features = [
   {
     id: "feature-1",
     icon: star,
-    title: "Rewards",
+    title: "Promoções",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Melhores promoções de cartão de crédito com muitas promoções",
   },
   {
     id: "feature-2",
     icon: shield,
-    title: "100% Secured",
+    title: "100% seguro",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "As melhores tecnologias para ter transações seguras.",
   },
   {
     id: "feature-3",
     icon: send,
-    title: "Balance Transfer",
+    title: "Saldo de transferência",
     content:
-      "A balance transfer credit card can save you a lot of money in interest charges.",
+      "Transparência no saldo sem pegadinhas onde você vê o que realmente importa nos seus investimentos.",
   },
 ];
 
@@ -73,17 +73,17 @@ export const feedback = [
 export const stats = [
   {
     id: "stats-1",
-    title: "User Active",
+    title: "Usuarios Ativos",
     value: "3800+",
   },
   {
     id: "stats-2",
-    title: "Trusted by Company",
+    title: "Confiam na companhia",
     value: "230+",
   },
   {
     id: "stats-3",
-    title: "Transaction",
+    title: "Transações",
     value: "$230M+",
   },
 ];
