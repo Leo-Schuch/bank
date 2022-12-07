@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import {riblu, people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -47,25 +47,25 @@ export const feedback = [
   {
     id: "feedback-1",
     content:
-      "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-    name: "Herman Jensen",
-    title: "Founder & Leader",
+      "Eu amo esse banco e amo ainda mais o Beiçola",
+    name: "Leonardo Airam",
+    title: "Drag Queen nas horas vagas",
     img: people01,
   },
   {
     id: "feedback-2",
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
-    name: "Steve Mark",
-    title: "Founder & Leader",
+      "O Beiçola é um Deus grego, bonito, cheiroso e sensual. o Banco é muito bom.",
+    name: "Gledson",
+    title: "Comedor de Sucrilhos",
     img: people02,
   },
   {
     id: "feedback-3",
     content:
-      "It is usually people in the money business, finance, and international trade that are really rich.",
-    name: "Kenn Gallagher",
-    title: "Founder & Leader",
+      "Esse banco do beiçola me fez conseguir ganhar mais dinheiro para comprar meus (Remédios) ",
+    name: "Gregory",
+    title: "Plantador de mandioca",
     img: people03,
   },
 ];
